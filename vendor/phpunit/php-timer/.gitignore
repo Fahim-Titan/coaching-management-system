@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+/vendor
+/composer.lock
+
+=======
+=======
+>>>>>>> a4c87e09b4e51c5a2c5cbec93fccb901503830c8
+build/api
+build/code-browser
+build/coverage
+build/logs
+build/pdepend
+cache.properties
+phpunit.xml
+<<<<<<< HEAD
+>>>>>>> a4c87e09b4e51c5a2c5cbec93fccb901503830c8
+=======
+>>>>>>> a4c87e09b4e51c5a2c5cbec93fccb901503830c8
